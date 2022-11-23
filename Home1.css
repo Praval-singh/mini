@@ -1,0 +1,32 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+nav a{
+    padding: 5px;
+    margin: 10px;
+    color: white;
+}
+nav{
+   
+   padding: 8px;
+   background-color: red;
+   overflow: hidden;
+}
+nav a:hover{
+    color: black;
+}
+h4{
+     color: crimson;
+     padding: 30px;
+   
+     
+}
+h1{
+    padding: 30px;
+    font-style: Bold;
+    font-size: 60px;
+}
+h2{
+    padding: 30px;
+}

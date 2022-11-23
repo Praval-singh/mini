@@ -1,0 +1,56 @@
+*{
+    box-sizing: border-box;
+}
+.Akash{
+    background-color:greenyellow;
+    background: red;
+    border: #4daea1;
+    text-align: center;
+    background-attachment: fixed;
+    font-size: xx-large;
+    font-weight: 400;
+    border-radius: 0rem;
+}
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 15px 30px;
+    font-size: 15px;
+    padding: 8px;
+}
+.container{
+    background-color: whitesmoke;
+    padding: 5px 20px 15px 20px;
+    border :1px solid lightgray;
+    border-radius: 4px;
+    width: 50%;
+}
+input[type = "text"],
+input[type = "Password"],
+input[type = "Email"],
+input[type = "Number"],
+select,
+textarea{
+    width : 50%;
+    padding : 12px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin: 10px;
+
+}
+fieldset{
+    background-color: #fff;
+    border: 1px solid #ccc;
+}
+.main_heading{
+    text-align: center;
+    color: black;
+}
+input[type = "submit"]{
+    background-color: #4daea1;
+    cursor: pointer;
+    color: #ccc;
+    padding: 10px 20px;
+    border: none;
+    width: 100%;
+    border-radius: 4px;
+}
