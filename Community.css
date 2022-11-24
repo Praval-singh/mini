@@ -227,10 +227,11 @@ span{
     justify-content: space-evenly;
     display: flex;
     flex-direction: row;
-    background-color: black;
-
+    background-color: black; 
     
-    
+}
+#b3{
+     margin-right: 80px;
 }
 #b4{
     width: 20%;
@@ -303,7 +304,7 @@ span{
 .pho{
     width: 31%;
     position: relative;
-    bottom: 238px;
+    bottom: 330px;
     left: 77px;
 }
 
